@@ -1,0 +1,5 @@
+#!/bin/sh
+set -eu
+echo 'Start install script'
+printenv
+echo 'End install script'
